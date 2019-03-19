@@ -1,10 +1,10 @@
-#Introducing Curved Bonded Derivatives
-###CBDs could create universal, accessible and liquid information markets.
+# Introducing Curved Bonded Derivatives
+### CBDs could create universal, accessible and liquid information markets.
 
-##Abstract
+## Abstract
 In this article, we are proposing a cryptoeconomic primitive that makes it possible to invest in any entity represented by a unique identifier (e.g. an URL) with an automated market maker in a trustless way.
 
-##Background
+## Background
 As Hayek has argued, markets are an efficient way to aggregate information that is distributed among individuals within a society (Hayek, 1945). By using prices as signals, the limited knowledge of individuals can be gathered and used to allocate resources efficiently.
 
 Currently, markets where individuals can apply knowledge for profit generation, such as the stock market, are very limited to specific assets and restricted to a global elite. This leaves crucial information blindspots, inter alia of individuals in high potential growth areas like developing countries.
@@ -19,7 +19,7 @@ A better way to access global knowledge, create value signals and allocate globa
 
 We believe that new cryptoeconomic investment instruments, that enable inclusive information markets will be the “killer application” for blockchain technology in the short term future.
 
-##Introducing Curve Bonded Derivatives
+## Introducing Curve Bonded Derivatives
 In response to the above-stated challenges of inclusive financial instruments for information coordination, we are proposing a new cryptoeconomic primitive, the Curve Bonded Derivative (CBD).
 
 1. CBDs make it possible to invest in any entity by using a unique identifier as a representation for that entity.
@@ -51,21 +51,21 @@ CBDs can be imagined as simplified prediction markets, where prediction signals 
 
 In order to bet that an entity will increase in relevance, agents can buy stakes in URLs representing this entity on CBD registry contracts. They can also sell the stake at any time when they believe relevance will decrease.
 
-###Example use case:
+### Example use case:
 Alice learns about a new project; she is excited about and believes that this project has a bright future. She visits her favourite CBD registry and enters the URL of the project. If the project wasn’t yet registered Alice can register it herself; otherwise, she just invests in the project. She invests 100$ and gets 200 tokens.
 
 A year later the internet is buzzing about this project, and more people bought tokens while fewer people sold them. Alice rechecks her investment, and she is pleased to see that the price for one token increased to a 1000$. She sells 20 token and already made a significant profit, while still holding a small stake.
 
-###Real world use cases:
+### Real world use cases:
 Crowdfunding: Current crowdfunding models like Kickstarter or ICOs have lengthy setup times, and their illiquidity makes them very inconvenient for investors. Curve bonded derivatives have the potential to make it easier to crowdfund projects.
 
 Alice has an idea for a new app, so she writes a prototype on GitHub, explains it in an article and registers the repository URL through a CBD registry. She can now invest in the URL and send it out to friends and like-minded peers. If they like the idea, they will also invest in it. After more people invested in the project, Alice can sell some of her initial investment to a higher price and use the money to start working on the project.
 
-###Articles: Currently, there is no easy way to invest in ideas, but CBDs could make this possible. Online articles could be registered through their URLs, and people would now have the possibility to signal how strong they believe in the future value of the expressed ideas. Writers could also register and invest in their articles right after publishing them and later sell the tokens for profit.
+Articles: Currently, there is no easy way to invest in ideas, but CBDs could make this possible. Online articles could be registered through their URLs, and people would now have the possibility to signal how strong they believe in the future value of the expressed ideas. Writers could also register and invest in their articles right after publishing them and later sell the tokens for profit.
 
-###Music: Music could be an enabler for mainstream adoption of CDBs. Currently, there is no way to invest in an artist or song, while the internet is full of passionate fans that predict the future success of their favourite artists. CBDs could enable a market where fans can bet on the future success of their favourite artist or song. This could prove to be a more efficient way to facilitate discovery of lesser-known artists than current models. Like in the cases mentioned above, CBDs could also be a way for musicians to finance their projects.
+Music: Music could be an enabler for mainstream adoption of CDBs. Currently, there is no way to invest in an artist or song, while the internet is full of passionate fans that predict the future success of their favourite artists. CBDs could enable a market where fans can bet on the future success of their favourite artist or song. This could prove to be a more efficient way to facilitate discovery of lesser-known artists than current models. Like in the cases mentioned above, CBDs could also be a way for musicians to finance their projects.
 
-##Challenges
+## Challenges
 Since CBDs don’t have an intrinsic value, they could be easily mistaken for a pyramid scheme. In contrast to a pyramid scheme, the demand for a CBD will not only depend on the marketing and sales skills of stakeholders but also on the current relevance of the underlying entity.
 
 Initial participation in CBDs might be challenging since there is no intrinsic value or prospects for future cash flow. Similar to most modern currencies including cryptocurrencies that also don’t have intrinsic value, CBDs can be best understood as a value-communication instrument. Like the first Bitcoin miner, early CBD investors need to believe in the future benefits of the system.
@@ -76,7 +76,7 @@ Short selling for Bonding Curves could help to prevent assets from rising to irr
 
 We believe in open information markets. Patronising people by censoring their ability to invest through central entities might prevent them from losses in the short term but hurts our society in the long term. Everybody has unique knowledge and only by creating instruments to access this knowledge we can advance in a globally efficient way.
 
-##Conclusion
+## Conclusion
 Current financial instruments exclude important parts of the global population and are restricted to a limited selection of assets; they thereby only enable markets with very incomplete information.
 
 Curve Bonded Derivatives could create universal, more complete and liquid information markets.
