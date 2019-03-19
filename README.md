@@ -81,9 +81,10 @@ Current financial instruments exclude important parts of the global population a
 
 Curve Bonded Derivatives could create universal, more complete and liquid information markets.
 
-By making all entities that can be represented by a unique identifier, feasible for investment.
-By making it very easy to create or invest in a derivative representing these entities.
-By creating liquidity through curved bonding and enabling instant market making for these entities.
+1. By making all entities that can be represented by a unique identifier, feasible for investment.
+2. By making it very easy to create or invest in a derivative representing these entities.
+3. By creating liquidity through curved bonding and enabling instant market making for these entities.
+
 The internet is a base layer communications network, through which we can exchange information almost instantly. But we are missing a global language to signal value of this information, of ideas, projects and real-world entities and allocate capital accordingly.
 
 Alice Nakamoto, Moritz Stellmacher
